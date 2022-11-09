@@ -2,6 +2,7 @@
 <h3 align="center">A passionate .NET developer from Russia</h3>
 
 - 🌱 I’m currently learning **.NET, ASP.NET**
+- 🤝 I'm looking for a job
 
 <p align="left">
 </p>
